@@ -1,0 +1,46 @@
+
+*  {
+    color:black;
+    font-family:Arial, Helvetica, sans-serif;
+    background-color:rgb(240, 239, 237)
+}
+h1{
+    color:#36413E;
+}
+p{
+    color:maroon;
+}
+button{
+    color:#5D5E60;
+    background-color:#8D8D92;
+}
+body{
+    background-color:#ffffff;
+}
+#headingone{
+    font-weight:normal;
+    color:rgb(81, 27, 80);
+    height:200px;
+    width:200px;
+    background-color:lightseagreen;
+    border: 5px dotted rgb(149, 0, 255);
+         
+}
+.dheeraj{
+    font-weight:1000;
+    color:red;
+    padding-bottom:25px;
+}
+p{
+    text-align:start;
+    ;
+}
+#TEST{
+    text-align: center;
+    text-decoration: pink underline;
+    color:red;
+    text-transform: uppercase;
+}
+headingone:hover{
+    color:blue;
+}
