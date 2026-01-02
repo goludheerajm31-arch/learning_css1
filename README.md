@@ -1,2 +1,13 @@
-# learning_css1-
-this is a test repo to put my HTML and CSS project
+
+# 📘 Learning CSS
+
+This repository is created to **learn and practice CSS (Cascading Style Sheets)** step by step.  
+CSS is used to style and design web pages—colors, layouts, fonts, spacing, and responsiveness.
+
+---
+
+## 🎯 Goals
+- Understand core CSS concepts
+- Learn modern layout techniques (Flexbox & Grid)
+- Build clean, responsive UI
+- Practice real-world styling examples
