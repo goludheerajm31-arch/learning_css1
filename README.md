@@ -1,7 +1,7 @@
 
 # 📘 Learning CSS
 
-This repository is created to **learn and practice CSS (Cascading Style Sheets)** step by step.  
+This repository is created to **learn and practice CSS ** step by step.  
 CSS is used to style and design web pages—colors, layouts, fonts, spacing, and responsiveness.
 
 ---
